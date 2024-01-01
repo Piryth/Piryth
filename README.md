@@ -1,9 +1,10 @@
 ### Welcome to my Github page ! 👋
 
 Let's make the world better ! 
+    <img src="https://media.giphy.com/media/AfoijA5f5zqryN56Aq/giphy-downsized-large.gif" width="256"/>
+
 
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/AfoijA5f5zqryN56Aq/giphy-downsized-large.gif" width="256"/>
   <div id="badges">
      <a href="https://bento.me/arnaud-endignous">
       <img src="https://img.shields.io/badge/Bento-brown?style=for-the-badge&logo=bento&logoColor=white" alt="Bento"/>
@@ -54,6 +55,8 @@ Let's make the world better !
 ### 🏆 My stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=piryth&theme=light&background=FFF)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piryth&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
