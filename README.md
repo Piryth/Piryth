@@ -4,7 +4,11 @@
 
 <div id="tools">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
-  
+  <img src="[https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg)" title="Java Spring" alt="Java Spring" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="NextJs" alt="NextJs" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="NextJs" alt="NextJs" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="NextJs" alt="NextJs" width="40" height="40"/>
+
 
 </div>
 
