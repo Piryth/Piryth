@@ -3,19 +3,19 @@
 Let's make the world better ! 
 
 <div id="header" align="center">
+  <iframe src="https://giphy.com/embed/5dYiWM1Pm8HMLHVG0Z" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/5dYiWM1Pm8HMLHVG0Z">via GIPHY</a></p>
   <div id="badges">
      <a href="https://bento.me/arnaud-endignous">
-      <img src="https://img.shields.io/badge/Boutique_Notion-brown?style=for-the-badge&logo=bento&logoColor=white" alt="Bento"/>
+      <img src="https://img.shields.io/badge/Bento-brown?style=for-the-badge&logo=bento&logoColor=white" alt="Bento"/>
     </a>
-  <a href="https://www.linkedin.com/in/arnaud-endignous/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://notionland.podia.com/">
-    <img src="https://img.shields.io/badge/Boutique_Notion-brown?style=for-the-badge&logo=notion&logoColor=white" alt="Online shop Badge"/>
-  </a>
+    <a href="https://www.linkedin.com/in/arnaud-endignous/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://notionland.podia.com/">
+      <img src="https://img.shields.io/badge/Boutique_Notion-brown?style=for-the-badge&logo=notion&logoColor=white" alt="Online shop Badge"/>
+    </a>
+  </div>
 </div>
-</div>
-
 
 
 ---
