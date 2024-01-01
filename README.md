@@ -1,16 +1,21 @@
-### Hi there 👋
+### Welcome to my Github page ! 👋
 
-### My developer philosophy
+Let's make the world better ! 
+
+---
+
+### 💭 My developer philosophy
 
 It is to write !
 
+---
 
-### Some information about me :
+### :pushpin: Some information about me :
 
-- I am a CS student at UGA/TU Dublin
-- I specialize in web and Java development
-- My credo is CL (**Continuous Learning**)
-- I also do Notion templates
+- :mortar_board: I am a CS student at **UGA/TU Dublin**
+- 💻 I specialize in web and Java development
+- 🧠 My credo is CL (**Continuous Learning**)
+- 💼 I also do **<a href="https://app.podia.com/editor/pages/10805871/edit">Notion templates</a>**
 
 ---
 
