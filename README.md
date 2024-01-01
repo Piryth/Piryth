@@ -20,16 +20,12 @@ Let's make the world better !
 
 ---
 
-### 💭 My developer philosophy
-
-It is to write !
-
----
 
 ### :pushpin: Some information about me :
 
 - :mortar_board: I am a CS student at **UGA/TU Dublin**
 - 💻 I specialize in web and Java development
+- 🗺️ Dublin
 - 🧠 My credo is CL (**Continuous Learning**)
 - 💼 I also do **<a href="https://app.podia.com/editor/pages/10805871/edit">Notion templates</a>**
 
@@ -52,6 +48,13 @@ It is to write !
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="40" height="40"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Apache" alt="Apache" width="40" height="40"/>  
 </div>
+
+---
+
+### 🏆 My stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=piryth&theme=light&background=FFF)](https://git.io/streak-stats)
+
 
 <!--
 **Piryth/Piryth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
