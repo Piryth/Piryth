@@ -3,7 +3,7 @@
 Let's make the world better ! 
 
 <div id="header" align="center">
-    <img src="https://giphy.com/embed/5dYiWM1Pm8HMLHVG0Z" width="100"/>
+    <img src="https://media.giphy.com/media/5dYiWM1Pm8HMLHVG0Z/giphy.gif" width="100"/>
 
   <div id="badges">
      <a href="https://bento.me/arnaud-endignous">
