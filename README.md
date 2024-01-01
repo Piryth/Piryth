@@ -1,8 +1,20 @@
 ### Hi there 👋
 
+### My developer philosophy
+
+It is to write !
+
+
+### Some information about me :
+
+- I am a CS student at UGA/TU Dublin
+- I specialize in web and Java development
+- My credo is CL (**Continuous Learning**)
+- I also do Notion templates
+
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: My main tool stack :
 
 <div id="tools">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
