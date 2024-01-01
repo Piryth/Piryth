@@ -2,6 +2,15 @@
 
 Let's make the world better ! 
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/arnaud-endignous/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    <a href="https://app.podia.com/editor/pages/10805871/edit">
+    <img src="https://img.shields.io/badge/Boutique_Notion-brown?style=for-the-badge&logo=podia&logoColor=white" alt="Podia Badge"/>
+  </a>
+</div>
+
 ---
 
 ### 💭 My developer philosophy
