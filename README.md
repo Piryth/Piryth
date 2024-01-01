@@ -3,7 +3,9 @@
 Let's make the world better ! 
 
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/AfoijA5f5zqryN56Aq/giphy-downsized-large.gif" width="256"/>
+    
+
+      <img src="https://media.giphy.com/media/AfoijA5f5zqryN56Aq/giphy-downsized-large.gif" width="256" />
 
 
   <div id="badges">
