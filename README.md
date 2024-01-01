@@ -5,8 +5,7 @@ Let's make the world better !
   <img src="https://media.giphy.com/media/AfoijA5f5zqryN56Aq/giphy.gif"/>
 </div>
 
-<div id="header" align="center">
-  <div id="badges">
+  <div id="badges" align="center">
      <a href="https://bento.me/arnaud-endignous">
       <img src="https://img.shields.io/badge/Bento-brown?style=for-the-badge&logo=bento&logoColor=white" alt="Bento"/>
     </a>
@@ -14,10 +13,9 @@ Let's make the world better !
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://notionland.podia.com/">
-      <img src="https://img.shields.io/badge/Boutique_Notion-brown?style=for-the-badge&logo=notion&logoColor=white" alt="Online shop Badge"/>
+      <img src="https://img.shields.io/badge/Notion_shop-brown?style=for-the-badge&logo=notion&logoColor=white" alt="Online shop Badge"/>
     </a>
   </div>
-</div>
 
 
 ---
