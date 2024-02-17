@@ -6,7 +6,7 @@ Let's make the world better !
 </div>
 
   <div id="badges" align="center">
-     <a href="[https://bento.me/arnaud-endignous](https://piryth.notion.site/Arnaud-Endignous-6ef48358463140869236365f79124df3?pvs=4)">
+     <a href="https://piryth.notion.site/Arnaud-Endignous-6ef48358463140869236365f79124df3">
       <img src="https://img.shields.io/badge/Bento-brown?style=for-the-badge&logo=bento&logoColor=white" alt="Site personnel"/>
     </a>
     <a href="https://www.linkedin.com/in/arnaud-endignous/">
