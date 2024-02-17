@@ -6,13 +6,13 @@ Let's make the world better !
 </div>
 
   <div id="badges" align="center">
-     <a href="https://bento.me/arnaud-endignous">
-      <img src="https://img.shields.io/badge/Bento-brown?style=for-the-badge&logo=bento&logoColor=white" alt="Bento"/>
+     <a href="[https://bento.me/arnaud-endignous](https://piryth.notion.site/Arnaud-Endignous-6ef48358463140869236365f79124df3?pvs=4)">
+      <img src="https://img.shields.io/badge/Bento-brown?style=for-the-badge&logo=bento&logoColor=white" alt="Site personnel"/>
     </a>
     <a href="https://www.linkedin.com/in/arnaud-endignous/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://notionland.podia.com/">
+    <a href="https://arnaudedns.gumroad.com/">
       <img src="https://img.shields.io/badge/Notion_shop-brown?style=for-the-badge&logo=notion&logoColor=white" alt="Online shop Badge"/>
     </a>
   </div>
