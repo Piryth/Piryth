@@ -27,7 +27,7 @@ Let's make the world better !
 - 💻 I specialize in web and Java development
 - 🗺️ Dublin
 - 🧠 My credo is CL (**Continuous Learning**)
-- 💼 I also do **<a href="https://app.podia.com/editor/pages/10805871/edit">Notion templates</a>**
+- 💼 I also do **<a href="https://optimal-agency.fr">Notion templates</a>**
 
 ---
 
