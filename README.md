@@ -12,7 +12,7 @@ Let's make the world better !
     <a href="https://www.linkedin.com/in/arnaud-endignous/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://arnaudedns.gumroad.com/">
+    <a href="https://optimalshop.gumroad.com/">
       <img src="https://img.shields.io/badge/Notion_shop-brown?style=for-the-badge&logo=notion&logoColor=white" alt="Online shop Badge"/>
     </a>
   </div>
