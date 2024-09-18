@@ -23,8 +23,9 @@ Let's make the world better !
 
 ### :pushpin: Some information about me :
 
-- :mortar_board: I am a CS student at **IMT Nord Europe**
-- 💻 I specialize in web and Java development
+- 👨🏼‍🎓 I am a CS student at **IMT Nord Europe**
+- 👨🏼‍💻 I'm a Java and Spring developper at **<a href="https://www.boulanger.com/">Boulanger</a>**
+- 🧙🏼‍♂️ I'm also a **Campus Leader** at **<a href="https://notion.so">Notion</a>** for cohort 2024-2025
 - 🗺️ Lille, France
 - 🧠 My credo is CL (**Continuous Learning**)
 - 💼 I also do **<a href="https://optimal-agency.fr">Notion templates</a>**
