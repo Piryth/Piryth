@@ -23,9 +23,9 @@ Let's make the world better !
 
 ### :pushpin: Some information about me :
 
-- :mortar_board: I am a CS student at **UGA/TU Dublin**
+- :mortar_board: I am a CS student at **IMT Nord Europe**
 - 💻 I specialize in web and Java development
-- 🗺️ Dublin
+- 🗺️ Lille, France
 - 🧠 My credo is CL (**Continuous Learning**)
 - 💼 I also do **<a href="https://optimal-agency.fr">Notion templates</a>**
 
