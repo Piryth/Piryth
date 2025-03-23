@@ -52,7 +52,9 @@ Let's make the world better !
 
 <div id="automations">
     <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="40" height="40"/>  
-    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/n8n-14djj6nxy95fbv0dv1vg0ya.png" title="N8N" alt="N8N" width="40" height="40"/>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" title="N8N" alt="N8N" width="40" height="40"/>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Mistral_AI_logo_%282025%E2%80%93%29.svg" title="Mistral AI" alt="Mistral AI" width="40" height="40"/>  
+
 
   
 </div>
